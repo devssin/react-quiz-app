@@ -1,0 +1,108 @@
+{
+  "questions": [
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What country is not a part of Scandinavia?",
+      "correct_answer": "Finland",
+      "incorrect_answers": ["Norway", "Sweden", "Denmark"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is the main antagonist in the Portal franchise?",
+      "correct_answer": "GLaDOS",
+      "incorrect_answers": ["Chell", "Wheatley", "Rick"]
+    },
+    {
+      "category": "Politics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which Native American tribe/nation requires at least one half blood quantum (equivalent to one parent) to be eligible for membership?",
+      "correct_answer": "Yomba Shoshone Tribe",
+      "incorrect_answers": [
+        "Standing Rock Sioux Tribe",
+        "Kiowa Tribe of Oklahoma",
+        "Pawnee Nation of Oklahoma"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "It is automatically considered entrapment in the United States if the police sell you illegal substances without revealing themselves.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the Gamecube Version of &quot;Resident Evil&quot; what text document is open on the monitor of the computer in the Visual Data Room?",
+      "correct_answer": "A GDC Document",
+      "incorrect_answers": [
+        "Text Document on Herbs",
+        "Nothing",
+        "Document on B.O.Ws"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "On which day did construction start on &quot;The Pentagon&quot;, the headquarters for the United States Department of Defense?",
+      "correct_answer": "September 11, 1941",
+      "incorrect_answers": [
+        "June 15, 1947",
+        "January 15, 1943",
+        "September 2, 1962"
+      ]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What year was the Disney film &quot;A Goofy Movie&quot; released?",
+      "correct_answer": "1995",
+      "incorrect_answers": ["1999", "2001", "1997"]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is the true moon princess in Sailor Moon?",
+      "correct_answer": "Sailor Moon",
+      "incorrect_answers": ["Sailor Venus", "Sailor Mars", "Sailor Jupiter"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does the acronym CDN stand for in terms of networking?",
+      "correct_answer": "Content Delivery Network",
+      "incorrect_answers": [
+        "Content Distribution Network",
+        "Computational Data Network",
+        "Compressed Data Network"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Tennis was once known as Racquetball.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Where are the Nazca Lines located?",
+      "correct_answer": "Peru",
+      "incorrect_answers": ["Brazil", "Colombia", "Ecuador"]
+    }
+  ]
+}
